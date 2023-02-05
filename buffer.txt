@@ -1,0 +1,24 @@
+
+       Mov         ah           , 2
+andah,2       ADD ah,0ah
+sub ah,10b
+or ah,
+10b        MoV
+ecx
+,
+10101111b
+mov bx, -34   test   bx,          11b
+cmp ah,ah
+
+Movcx,50 mov cx,bx
+Mov  bh , 10
+Add ah,
+bhSUB ah, bh
+And bx,cx
+sub cx,51
+
+Mov al,255
+add al,2
+Mov cl,1
+add cl,127
+cmp ah,ah
